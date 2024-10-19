@@ -1,5 +1,10 @@
-Online Learning Platform
+##Online Learning Platform
+
+
 Overview
+
+
+
 The Online Learning Platform is a web application that allows users to browse, enroll, and complete various courses while providing admins the tools to manage courses, instructors, and track user progress. Built using React, Vite, and Tailwind CSS, this platform offers a responsive and intuitive user experience for both learners and educators.
 
 Features
